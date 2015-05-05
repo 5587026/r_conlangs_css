@@ -2939,5 +2939,9 @@ body>.content {
 	100% {transform:scale(1.5,1.5);			-webkit-transform:scale(1.5,1.5); opacity: 0;}
 }
 
-/* Custom CSS */
+/* === Custom CSS === */
 
+/* Good IPA Coverage Font */
+p, li, textarea, a {
+	font-family: Helvetica,Arial,"Lucidia Sans Unicode",sans-serif;
+}
